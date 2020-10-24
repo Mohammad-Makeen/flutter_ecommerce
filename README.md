@@ -8,6 +8,8 @@ Flutter & Dart
 
 **Back-End**
 
-Strapi, Cloudinary and MongoDB deployed to Heroku
+Cloudinary and MongoDB deployed to Heroku
+
+Strapi acts as an API
 
 
