@@ -1,3 +1,11 @@
-# Strapi application
+# Flutter E-commerce Application
 
-A quick description of your strapi application
+This application uses the follwoing
+**Front-End**
+
+Flutter & Dart
+
+**Back-End**
+Strapi, Cloudinary and MongoDB deployed to Heroku
+
+
